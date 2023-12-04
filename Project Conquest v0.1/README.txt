@@ -1,18 +1,9 @@
-Vision of the Project:
-	A simulation of the paper-and-pencil game from gradeschool
-	where legions of workers mine and develop plots of land.
+		     PROJECT CONQUEST
+A resource-management game built purely from Java libraries.
 
-Projection:
-	Build the engine first
-	Add features that seem relevant and fun
-	Test with others for balance and enjoyment
-	Release!
-	
-
-Agenda:
-	Finish Plants
-		Finish plant drops
-		Spawn into map
-	Make workers
-	Add orders
-	Add crafting/weapons
+Skills Demonstrated:
+	Created expansive system of cooperating classes to store and manage a variety of data structures
+	Utilized algorithms to procedurally generate game maps
+	Integrated custom exceptions to prevent game crashes
+	Created audio and visual input/output system
+	Integrated keyboard and mouse controls
